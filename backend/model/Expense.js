@@ -1,6 +1,6 @@
 const Sequelize = require("sequelize");
 const sequelize = require("../utils/database");
-
+// comment
 const Expense = sequelize.define(
   "expense",
   {
